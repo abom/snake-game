@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg3534"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="snake_part.svg"
+   inkscape:export-filename="/home/abom/Projects/java_proj/Snake Game/art/snake_part.png"
+   inkscape:export-xdpi="90.391113"
+   inkscape:export-ydpi="90.391113">
+  <defs
+     id="defs3536" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6658172"
+     inkscape:cx="42.274917"
+     inkscape:cy="44.032594"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1022"
+     inkscape:window-height="716"
+     inkscape:window-x="2"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3539">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#008080;stroke:none"
+       id="path3544"
+       sodipodi:cx="17.398058"
+       sodipodi:cy="29.558947"
+       sodipodi:rx="12.072122"
+       sodipodi:ry="17.398058"
+       d="m 29.47018,29.558947 a 12.072122,17.398058 0 1 1 -0.0063,-0.563427"
+       sodipodi:start="0"
+       sodipodi:end="6.2507952"
+       sodipodi:open="true"
+       transform="matrix(2.6323529,0,0,1.8469388,-13.664682,-22.371651)" />
+    <path
+       style="fill:#ff5555;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 46.065729,27.818105 c 3.804561,-1.522076 6.546969,-5.472386 8.471859,-9.001349 1.636972,-3.001116 1.750233,-6.564662 3.52994,-9.5308407 0.998411,-1.664017 2.495261,-3.2255516 3.353444,-4.9419174 0.221305,-0.4426086 0.145811,-0.9976087 0.352994,-1.4119763 0.833525,-1.6670488 2.294462,0.176503 2.294462,-2.64745576"
+       id="path2983"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2987"
+       d="M 18.355693,27.818106 C 14.551132,26.29603 11.808724,22.34572 9.883834,18.816757 8.246862,15.815641 8.133601,12.252095 6.353894,9.2859157 5.3554829,7.6218984 3.8586329,6.0603638 3.0004499,4.343998 2.7791449,3.9013894 2.8546389,3.3463893 2.6474559,2.9320217 1.8139309,1.2649729 0.35299386,3.1085247 0.35299386,0.28456587"
+       style="fill:#ff5555;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2989"
+       sodipodi:cx="21.620888"
+       sodipodi:cy="20.31698"
+       sodipodi:rx="4.1476808"
+       sodipodi:ry="4.5006747"
+       d="m 25.768569,20.31698 a 4.1476808,4.5006747 0 1 1 -0.0022,-0.145751"
+       sodipodi:start="0"
+       sodipodi:end="6.2507952"
+       sodipodi:open="true"
+       transform="translate(0,2.2944616)" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="6.2507952"
+       sodipodi:start="0"
+       d="m 25.768569,20.31698 a 4.1476808,4.5006747 0 1 1 -0.0022,-0.145751"
+       sodipodi:ry="4.5006747"
+       sodipodi:rx="4.1476808"
+       sodipodi:cy="20.31698"
+       sodipodi:cx="21.620888"
+       id="path2993"
+       style="fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc"
+       transform="translate(21.53264,2.1179646)" />
+  </g>
+</svg>
